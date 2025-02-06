@@ -22,7 +22,7 @@
     line-height: 24px;
     text-decoration: none;
     color: var(--cor-links);
-    font-family: var(--fonte-texto);
+    font-family: var(--fonte-texto)
 }
 
 .cabecalho__nav_list_item-input {
@@ -58,7 +58,6 @@
         grid-template-areas: 
         "logo sobre login perfil carrinho"
         "input input input input input";
-
         grid-template-columns: 1fr 2fr .5fr .5fr .5fr;
     }
 
